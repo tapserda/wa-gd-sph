@@ -65,5 +65,5 @@ docker run -d \
 ## 🗂️ Struktur Proyek
 
 1. ​main.py - Logika inti bot WhatsApp menggunakan FastAPI, Uvicorn, dan Neonize.
-2. ​Dockerfile - Konfigurasi pembuatan image container Docker.
-​3. requirements.txt - Daftar dependensi pustaka Python.
+2. Dockerfile - Konfigurasi pembuatan image container Docker.
+3. requirements.txt - Daftar dependensi pustaka Python.
